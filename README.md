@@ -21,7 +21,9 @@ rafce
 
 ## 깃 순서
 
-1. git add .
-2. git status
-3. git commit -m "원하는 메시지" ex - scss 세팅, 올린 날짜, 수정 사항 등등
-4. git push -u origin main
+1. git add . -> 모든 파일의 변경 사항을 스테이징 영역에 추가
+2. git status -> 스테이징 영역에 추가된 파일 확인
+3. git commit -m "원하는 메시지" ex - scss 세팅, 올린 날짜, 수정 사항 등등 -> 스테이징 영역에 있는 파일들 로컬 저장소에 저장
+4. git push -u origin main -> 로컬 저장소의 변경 사항을 원격 저장소에 업로드.
+
+스테이징 영역: 깃에서 제공하는 임시 저장공간.
