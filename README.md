@@ -18,3 +18,10 @@ rafce
 ## SASS
 
 - 변수, 중첩, 믹스인, 확장, 연산
+
+## 깃 순서
+
+1. git add .
+2. git status
+3. git commit -m "원하는 메시지" ex - scss 세팅, 올린 날짜, 수정 사항 등등
+4. git push -u origin main
