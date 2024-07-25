@@ -1,22 +1,5 @@
 import React from 'react'
 
-//메뉴 아이콘
-import { MdOutlineOndemandVideo } from "react-icons/md";
-import { MdOutlineVideoSettings } from "react-icons/md";
-import { MdDeveloperMode } from "react-icons/md";
-import { SiAffinitydesigner } from "react-icons/si";
-import { MdOutlineAnimation } from "react-icons/md";
-import { BsPersonWorkspace } from "react-icons/bs";
-import { LiaYoutubeSquare } from "react-icons/lia";
-
-
-//sns
-import { AiFillGithub } from "react-icons/ai";
-import { AiFillYoutube } from "react-icons/ai";
-import { AiFillGoogleCircle } from "react-icons/ai";
-import { AiFillInstagram } from "react-icons/ai";
-
-
 
 const Header = () => {
   return (
@@ -59,10 +42,10 @@ const Header = () => {
             <a href='/search/html'>HTML</a>
           </li>
           <li>
-            <a href='/search/html'>CSS</a>
+            <a href='/search/css'>CSS</a>
           </li>
           <li>
-            <a href='/search/html'>JavaScript</a>
+            <a href='/search/javascript'>JavaScript</a>
           </li>
           <li>
             <a href='/search/react.js'>React.js</a>
@@ -77,10 +60,10 @@ const Header = () => {
             <a href='/search/spring'>SPRING</a>
           </li>
           <li>
-            <a href='music'>MUSIC</a>
+            <a href='/search/music'>MUSIC</a>
           </li>
           <li>
-            <a href='vue.js'>Vue.js</a>
+            <a href='/search/vue.js'>Vue.js</a>
           </li>
         </ul>
       </nav>
