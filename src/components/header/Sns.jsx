@@ -2,7 +2,7 @@ import React from 'react'
 import { snsLink } from '../../data/header'
 
 
-const sns = () => {
+const Sns = () => {
   return (
     <div className='header__sns'>
     <ul>
@@ -20,4 +20,4 @@ const sns = () => {
   )
 }
 
-export default sns
+export default Sns

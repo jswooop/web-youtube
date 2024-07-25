@@ -1,8 +1,9 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Wdbd = () => {
   return (
-    <div>Wdbd</div>
+    <Main>Wdbd</Main>
   )
 }
 

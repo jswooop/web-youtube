@@ -1,9 +1,10 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const gsap = () => {
+const Gsap = () => {
   return (
-    <div>gsap</div>
+    <Main>Gsap</Main>
   )
 }
 
-export default gsap
+export default Gsap

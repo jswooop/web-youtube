@@ -1,9 +1,10 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const youtube = () => {
+const Youtube = () => {
   return (
-    <div>youtube</div>
+    <Main>youtube</Main>
   )
 }
 
-export default youtube
+export default Youtube

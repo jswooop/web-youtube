@@ -3,7 +3,7 @@ import { HeaderMenu,searchKeyword } from '../../data/header'
 import { Link, useLocation }from 'react-router-dom'
 
 
-const menu = () => {
+const Menu = () => {
 
   const location = useLocation();
   console.log(location)
@@ -32,4 +32,4 @@ const menu = () => {
   )
 }
 
-export default menu
+export default Menu
