@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Channel = () => {
   return (
-    <Main>channel</Main>
+    <Main title="채널" description="채널 페이지입니다.">channel</Main>
   )
 }
 

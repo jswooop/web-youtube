@@ -3,7 +3,7 @@ import Main from '../components/section/Main'
 
 const Wdbd = () => {
   return (
-    <Main>Wdbd</Main>
+    <Main title="웹 디자인" description="웹디자인 페이지입니다.">Wdbd</Main>
   )
 }
 
