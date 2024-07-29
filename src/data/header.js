@@ -35,21 +35,21 @@ export const HeaderMenu =[
 
   },
   {
-    title:"웹 디자인",
+    title:"추천 영화",
     icon:<SiAffinitydesigner />,
-    src:"/webd"
+    src:"/Movie"
 
   },
   {
-    title:"GSAP",
-    icon:<MdOutlineAnimation />,
-    src:"/gsap"
-
-  },
-  {
-    title:"포트폴리오 사이트",
+    title:"추천 도서",
     icon:<BsPersonWorkspace />,
-    src:"/port"
+    src:"/book"
+
+  },
+  {
+    title:"추천 애니",
+    icon:<MdOutlineAnimation />,
+    src:"/anime"
 
   },
   {
